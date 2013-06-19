@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ol4jsf</groupId>
+  <artifactId>maven-jsf-plugin</artifactId>
+  <versioning>
+    <latest>0.0.4-SNAPSHOT</latest>
+    <versions>
+      <version>0.0.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130619084048</lastUpdated>
+  </versioning>
+</metadata>
