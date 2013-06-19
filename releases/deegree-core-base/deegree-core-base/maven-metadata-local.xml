@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>deegree-core-base</groupId>
+  <artifactId>deegree-core-base</artifactId>
+  <versioning>
+    <release>3.1.0</release>
+    <versions>
+      <version>3.1.0</version>
+    </versions>
+    <lastUpdated>20130619074545</lastUpdated>
+  </versioning>
+</metadata>
