@@ -1,14 +1,14 @@
-mvn install:install-file  -Dfile=lib/deegree-core-base-3.1.0.jar -DgroupId=deegree-core-base -DartifactId=deegree-core-base -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-core-commons-3.1.0.jar -DgroupId=deegree-core-commons -DartifactId=deegree-core-commons -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-core-cs-3.1.0.jar -DgroupId=deegree-core-cs -DartifactId=deegree-core-cs -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-core-geometry-3.1.0.jar -DgroupId=deegree-core-geometry -DartifactId=deegree-core-geometry -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-featurestore-commons-3.1.0.jar -DgroupId=deegree-featurestore-commons -DartifactId=deegree-featurestore-commons -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-featurestore-memory-3.1.0.jar -DgroupId=deegree-featurestore-memory -DartifactId=deegree-featurestore-memory -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-mdstore-commons-3.1.0.jar -DgroupId=deegree-mdstore-commons -DartifactId=deegree-mdstore-commons -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-ogcschemas-20110513.jar -DgroupId=deegree-ogcschemas -DartifactId=deegree-ogcschemas -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-s57.jar -DgroupId=deegree-s57 -DartifactId=deegree-s57 -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-services-commons-3.1.0.jar -DgroupId=deegree-services-commons -DartifactId=deegree-services-commons -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-services-csw-3.1.0.jar -DgroupId=deegree-services-csw -DartifactId=deegree-services-csw -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-services-wfs-3.1.0.jar -DgroupId=deegree-services-wfs -DartifactId=deegree-services-wfs -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file  -Dfile=lib/deegree-sqldialect-commons-3.1.0.jar -DgroupId=deegree-sqldialect -DartifactId=deegree-sqldialect -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-core-base-3.1.0.jar -DgroupId=deegree-core-base -DartifactId=deegree-core-base -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-core-commons-3.1.0.jar -DgroupId=deegree-core-commons -DartifactId=deegree-core-commons -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-core-cs-3.1.0.jar -DgroupId=deegree-core-cs -DartifactId=deegree-core-cs -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-core-geometry-3.1.0.jar -DgroupId=deegree-core-geometry -DartifactId=deegree-core-geometry -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-featurestore-commons-3.1.0.jar -DgroupId=deegree-featurestore-commons -DartifactId=deegree-featurestore-commons -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-featurestore-memory-3.1.0.jar -DgroupId=deegree-featurestore-memory -DartifactId=deegree-featurestore-memory -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-mdstore-commons-3.1.0.jar -DgroupId=deegree-mdstore-commons -DartifactId=deegree-mdstore-commons -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-ogcschemas-20110513.jar -DgroupId=deegree-ogcschemas -DartifactId=deegree-ogcschemas -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-s57.jar -DgroupId=deegree-s57 -DartifactId=deegree-s57 -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-services-commons-3.1.0.jar -DgroupId=deegree-services-commons -DartifactId=deegree-services-commons -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-services-csw-3.1.0.jar -DgroupId=deegree-services-csw -DartifactId=deegree-services-csw -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-services-wfs-3.1.0.jar -DgroupId=deegree-services-wfs -DartifactId=deegree-services-wfs -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-sqldialect-commons-3.1.0.jar -DgroupId=deegree-sqldialect -DartifactId=deegree-sqldialect -Dversion=3.1.0 -Dpackaging=jar
 
