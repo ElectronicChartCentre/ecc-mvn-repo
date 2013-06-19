@@ -10,5 +10,5 @@ mvn install:install-file -Dfile=lib/deegree-s57.jar -DgroupId=deegree-s57 -Darti
 mvn install:install-file -Dfile=lib/deegree-services-commons-3.1.0.jar -DgroupId=deegree-services-commons -DartifactId=deegree-services-commons -Dversion=3.1.0 -Dpackaging=jar
 mvn install:install-file -Dfile=lib/deegree-services-csw-3.1.0.jar -DgroupId=deegree-services-csw -DartifactId=deegree-services-csw -Dversion=3.1.0 -Dpackaging=jar
 mvn install:install-file -Dfile=lib/deegree-services-wfs-3.1.0.jar -DgroupId=deegree-services-wfs -DartifactId=deegree-services-wfs -Dversion=3.1.0 -Dpackaging=jar
-mvn install:install-file -Dfile=lib/deegree-sqldialect-commons-3.1.0.jar -DgroupId=deegree-sqldialect -DartifactId=deegree-sqldialect -Dversion=3.1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=lib/deegree-sqldialect-commons-3.1.0.jar -DgroupId=deegree-sqldialect-commons -DartifactId=deegree-sqldialect-commons -Dversion=3.1.0 -Dpackaging=jar
 
