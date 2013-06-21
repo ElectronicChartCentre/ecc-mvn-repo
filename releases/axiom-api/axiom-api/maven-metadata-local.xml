@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>axiom-api</groupId>
+  <artifactId>axiom-api</artifactId>
+  <versioning>
+    <release>1.2.9-deegreeversion</release>
+    <versions>
+      <version>1.2.9-deegreeversion</version>
+    </versions>
+    <lastUpdated>20130621081346</lastUpdated>
+  </versioning>
+</metadata>
