@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.stephenc.java-iso-tools</groupId>
+  <artifactId>iso9660-maven-plugin</artifactId>
+  <version>2.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20130807115445</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.0.1-SNAPSHOT</value>
+        <updated>20130807115445</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0.1-SNAPSHOT</value>
+        <updated>20130807115445</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
