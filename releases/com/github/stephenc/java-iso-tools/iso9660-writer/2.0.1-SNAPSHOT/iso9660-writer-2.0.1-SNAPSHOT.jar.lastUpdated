@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Aug 07 12:32:36 CEST 2013
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://oss.sonatype.org/content/repositories/java.net2/.error=
+https\://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases/.lastUpdated=1375871303633
+http\://repository.primefaces.org/.error=
+http\://devel.gvsig.org/m2repo/j2se/.error=
+http\://devel.gvsig.org/m2repo/j2se/.lastUpdated=1375871302562
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1375871302399
+https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.lastUpdated=1375871300740
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1375871556513
+https\://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases/.error=
+https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1375871298849
+https\://oss.sonatype.org/content/repositories/java.net2/.lastUpdated=1375871301482
+http\://repo1.maven.org/maven2/.error=
+http\://repository.primefaces.org/.lastUpdated=1375871303733
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=
