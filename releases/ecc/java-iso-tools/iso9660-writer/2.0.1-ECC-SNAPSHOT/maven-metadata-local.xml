@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>com.github.stephenc.ecc.java-iso-tools</groupId>
-  <artifactId>sabre</artifactId>
+  <groupId>ecc.java-iso-tools</groupId>
+  <artifactId>iso9660-writer</artifactId>
   <version>2.0.1-ECC-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20130807122658</lastUpdated>
+    <lastUpdated>20130808063456</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
         <value>2.0.1-ECC-SNAPSHOT</value>
-        <updated>20130807122658</updated>
+        <updated>20130808063456</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>2.0.1-ECC-SNAPSHOT</value>
-        <updated>20130807122604</updated>
+        <updated>20130808063456</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
