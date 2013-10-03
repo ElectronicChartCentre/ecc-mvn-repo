@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>saiku</groupId>
+  <groupId>org.saiku</groupId>
   <artifactId>saiku-service</artifactId>
-  <version>2.5-SNAPSHOT</version>
+  <version>2.6-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20131001095704</lastUpdated>
+    <lastUpdated>20131002122457</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.5-SNAPSHOT</value>
-        <updated>20131001095704</updated>
+        <value>2.6-SNAPSHOT</value>
+        <updated>20131002122457</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.5-SNAPSHOT</value>
-        <updated>20131001095704</updated>
+        <value>2.6-SNAPSHOT</value>
+        <updated>20131002122457</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
