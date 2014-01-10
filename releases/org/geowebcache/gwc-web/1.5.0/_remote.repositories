@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 10 14:47:12 CET 2014
+gwc-web-1.5.0.pom>=
+gwc-web-1.5.0-sources.jar>=
+gwc-web-1.5.0.jar>=
+gwc-web-1.5.0-tests.jar>=
