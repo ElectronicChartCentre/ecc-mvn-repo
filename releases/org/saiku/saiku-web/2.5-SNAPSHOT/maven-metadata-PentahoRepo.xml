@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.saiku</groupId>
+  <artifactId>saiku-web</artifactId>
+  <version>2.5-20130105.220552-1</version>
+  <versioning>
+    <snapshot />
+    <lastUpdated>20131114153340</lastUpdated>
+  </versioning>
+</metadata>
