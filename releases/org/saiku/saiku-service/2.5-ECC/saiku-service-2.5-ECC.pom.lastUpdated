@@ -1,18 +1,13 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Jan 20 22:48:01 CET 2014
+#Wed Jan 22 14:31:10 CET 2014
 https\://oss.sonatype.org/content/repositories/java.net2/.error=
-https\://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases/.lastUpdated=1390254473291
-http\://repo.maven.apache.org/maven2/.lastUpdated=1390254481242
-http\://repository.primefaces.org/.error=
+https\://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases/.lastUpdated=1390397470957
 http\://devel.gvsig.org/m2repo/j2se/.error=
-http\://devel.gvsig.org/m2repo/j2se/.lastUpdated=1390254477712
-https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1390254477463
-https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.lastUpdated=1390254474928
-http\://repo.maven.apache.org/maven2/.error=
-https\://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases/.error=
-http\://repository.pentaho.org/artifactory/repo/.lastUpdated=1390254480574
-http\://repository.primefaces.org/.lastUpdated=1390254478212
+http\://devel.gvsig.org/m2repo/j2se/.lastUpdated=1390397469551
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1390397469089
+https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.lastUpdated=1390397467202
 https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.error=
-https\://oss.sonatype.org/content/repositories/java.net2/.lastUpdated=1390254476317
+http\://repo1.maven.org/maven2/.lastUpdated=1390397466165
+https\://oss.sonatype.org/content/repositories/java.net2/.lastUpdated=1390397468144
+http\://repo1.maven.org/maven2/.error=
 https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=
-http\://repository.pentaho.org/artifactory/repo/.error=

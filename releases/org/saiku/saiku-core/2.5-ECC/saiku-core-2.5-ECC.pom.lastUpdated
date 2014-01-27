@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jan 22 14:31:14 CET 2014
+https\://oss.sonatype.org/content/repositories/java.net2/.error=
+https\://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases/.lastUpdated=1390397474858
+http\://devel.gvsig.org/m2repo/j2se/.error=
+http\://devel.gvsig.org/m2repo/j2se/.lastUpdated=1390397474008
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1390397473821
+https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.lastUpdated=1390397472138
+https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1390397471167
+https\://oss.sonatype.org/content/repositories/java.net2/.lastUpdated=1390397472893
+http\://repo1.maven.org/maven2/.error=
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=
