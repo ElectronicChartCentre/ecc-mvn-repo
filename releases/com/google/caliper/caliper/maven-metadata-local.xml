@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.caliper</groupId>
+  <artifactId>caliper</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-beta-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140310074247</lastUpdated>
+  </versioning>
+</metadata>
