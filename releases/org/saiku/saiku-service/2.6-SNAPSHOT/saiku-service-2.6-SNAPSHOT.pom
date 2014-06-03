@@ -68,6 +68,16 @@
         </plugins>
     </build>
     <dependencies>
+    <dependency>
+            <groupId>org.saiku</groupId>
+            <artifactId>saiku-query</artifactId>
+            <version>0.1-SNAPSHOT</version>
+     </dependency>
+		<dependency>
+			<groupId>org.saiku</groupId>
+			<artifactId>saiku-olap-util</artifactId>
+			<version>${project.version}</version>
+		</dependency>
         <dependency>
             <groupId>org.olap4j</groupId>
             <artifactId>olap4j</artifactId>
@@ -94,7 +104,7 @@
         <dependency>
             <groupId>pentaho</groupId>
             <artifactId>mondrian</artifactId>
-            <version>TRUNK-SNAPSHOT</version>
+            <version>3.6.5</version>
             <exclusions>
                 <exclusion>
                     <groupId>javax.servlet</groupId>

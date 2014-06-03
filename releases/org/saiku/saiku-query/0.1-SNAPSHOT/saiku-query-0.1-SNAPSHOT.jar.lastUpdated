@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 03 10:28:08 CEST 2014
+http\://repo.analytical-labs.com/alabs-release-local/.lastUpdated=1401783609076
+http\://repository.pentaho.org/artifactory/pentaho/.lastUpdated=1401783608650
+http\://repo.analytical-labs.com/repo/.lastUpdated=1401784088624
+http\://download.java.net/maven/2/.lastUpdated=1401783608954
+http\://repository.pentaho.org/artifactory/pentaho/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.analytical-labs.com/alabs-snapshot-local/.lastUpdated=1401783609504
+http\://repository.codehaus.org/.lastUpdated=1401783608338
+http\://repo.analytical-labs.com/alabs-release-local/.error=
+http\://repo.pentaho.org/artifactory/third-party/.error=
+http\://repository.codehaus.org/.error=
+http\://repo.pentaho.org/artifactory/third-party/.lastUpdated=1401783608056

@@ -11,11 +11,12 @@
 		<maven.compiler.target>1.5</maven.compiler.target>
     	<spring.version>3.0.0.RELEASE</spring.version>
         <slf4j.version>1.6.4</slf4j.version>
-        <enunciate.version>1.25</enunciate.version>
+        <enunciate.version>1.28</enunciate.version>
         <jersey.version>1.11</jersey.version>
 	</properties>
 
 	<modules>
+        <module>saiku-olap-util</module>
 		<module>saiku-service</module>
 		<module>saiku-web</module>
 	</modules>
