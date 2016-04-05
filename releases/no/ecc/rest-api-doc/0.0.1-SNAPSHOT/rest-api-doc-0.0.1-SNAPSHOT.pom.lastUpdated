@@ -1,0 +1,24 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 05 12:13:59 CEST 2016
+http\://repository.primefaces.org/.error=
+https\://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases/.lastUpdated=1459851238330
+https\://oss.sonatype.org/content/repositories/java.net2/.lastUpdated=1459851237301
+http\://jcenter.bintray.com/.lastUpdated=1459851236420
+dcefe4da1234d7cc0aa72e3de7ef2d3001bb465d@default-jenkins.ecc.no-https\://jenkins.ecc.no/plugin/repository/everything/.lastUpdated=1459851236079
+http\://repository.primefaces.org/.lastUpdated=1459851237972
+https\://oss.sonatype.org/content/repositories/releases/.error=
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1459851237804
+http\://repository.pentaho.org/artifactory/repo/.lastUpdated=1459851239379
+http\://jcenter.bintray.com/.error=
+http\://devel.gvsig.org/m2repo/j2se/.error=
+https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.lastUpdated=1459851236941
+http\://devel.gvsig.org/m2repo/j2se/.lastUpdated=1459851237887
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=
+http\://download.osgeo.org/webdav/geotools/.lastUpdated=1459851239075
+https\://jenkins.ecc.no/plugin/repository/everything/.error=Could not transfer artifact no.ecc\:rest-api-doc\:pom\:0.0.1-SNAPSHOT from/to jenkins.ecc.no (https\://jenkins.ecc.no/plugin/repository/everything)\: Access denied to\: https\://jenkins.ecc.no/plugin/repository/everything/no/ecc/rest-api-doc/0.0.1-SNAPSHOT/rest-api-doc-0.0.1-SNAPSHOT.pom , ReasonPhrase\:Forbidden.
+http\://repository.pentaho.org/artifactory/repo/.error=
+https\://repository.jboss.org/nexus/content/repositories/java.net-m2/.error=
+https\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1459851238697
+http\://download.osgeo.org/webdav/geotools/.error=
+https\://oss.sonatype.org/content/repositories/java.net2/.error=
+https\://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases/.error=
