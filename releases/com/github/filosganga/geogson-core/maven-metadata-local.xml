@@ -3,9 +3,10 @@
   <groupId>com.github.filosganga</groupId>
   <artifactId>geogson-core</artifactId>
   <versioning>
+    <release>1.1-SNAPSHOT-ECC</release>
     <versions>
-      <version>1.1-SNAPSHOT</version>
+      <version>1.1-SNAPSHOT-ECC</version>
     </versions>
-    <lastUpdated>20140924080734</lastUpdated>
+    <lastUpdated>20140925100837</lastUpdated>
   </versioning>
 </metadata>
