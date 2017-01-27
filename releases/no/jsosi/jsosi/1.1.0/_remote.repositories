@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 27 13:09:45 CET 2017
+jsosi-1.1.0.jar>=
+jsosi-1.1.0-sources.jar>=
+jsosi-1.1.0-test-sources.jar>=
+jsosi-1.1.0.pom>=
