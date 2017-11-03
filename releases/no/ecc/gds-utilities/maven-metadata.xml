@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>no.ecc</groupId>
+  <artifactId>gds-utilities</artifactId>
+  <versioning>
+    <release>0.0.1</release>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20171103193101</lastUpdated>
+  </versioning>
+</metadata>
