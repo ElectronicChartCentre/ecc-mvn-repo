@@ -73,6 +73,8 @@
                  <branch>refs/heads/master</branch>   
                  <merge>true</merge>
                  <path>releases</path>
+                 <userName>jone@ecc.no</userName>
+                 <oauth2Token>e8688a3f41bdb0a553c35d2bf6a95b5bed6a9f6a</oauth2Token>
                 <noJekyll>true</noJekyll>                                  <!-- disable webpage processing -->
                 <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory> <!-- matches distribution management repository url above -->
                 <includes><include>**/*</include></includes>
