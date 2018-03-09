@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.osgeo</groupId>
+  <artifactId>proj4j</artifactId>
+  <versioning>
+    <release>0.1.1-etmerc</release>
+    <versions>
+      <version>0.1.1-etmerc</version>
+    </versions>
+    <lastUpdated>20180309123204</lastUpdated>
+  </versioning>
+</metadata>
