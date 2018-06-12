@@ -3,10 +3,11 @@
   <groupId>org.osgeo</groupId>
   <artifactId>proj4j</artifactId>
   <versioning>
-    <release>0.1.1-etmerc</release>
+    <release>0.1.1-etmerc-2</release>
     <versions>
       <version>0.1.1-etmerc</version>
+      <version>0.1.1-etmerc-2</version>
     </versions>
-    <lastUpdated>20180309123204</lastUpdated>
+    <lastUpdated>20180612082034</lastUpdated>
   </versioning>
 </metadata>
