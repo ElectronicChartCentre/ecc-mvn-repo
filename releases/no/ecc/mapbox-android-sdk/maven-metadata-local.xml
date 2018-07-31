@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.mapbox.mapboxsdk</groupId>
+  <groupId>no.ecc</groupId>
   <artifactId>mapbox-android-sdk</artifactId>
   <versioning>
     <release>6.3.0-001</release>
