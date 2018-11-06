@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 06 16:04:15 CET 2018
+java-vector-tile-1.2.4-test-sources.jar>=
+java-vector-tile-1.2.4.jar>=
+java-vector-tile-1.2.4-sources.jar>=
+java-vector-tile-1.2.4.pom>=
