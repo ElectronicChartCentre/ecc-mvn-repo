@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 14 15:22:01 CET 2019
+jsosi-1.2.2.jar>=
+jsosi-1.2.2-sources.jar>=
+jsosi-1.2.2.pom>=
