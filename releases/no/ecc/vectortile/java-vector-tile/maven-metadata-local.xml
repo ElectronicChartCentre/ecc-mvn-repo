@@ -14,6 +14,7 @@
       <version>1.2.2</version>
       <version>1.2.3</version>
       <version>1.2.4</version>
+      <version>1.2.5</version>
       <version>1.3.0</version>
       <version>1.3.1</version>
       <version>1.3.2</version>
@@ -21,6 +22,6 @@
       <version>1.3.4</version>
       <version>1.3.5</version>
     </versions>
-    <lastUpdated>20190314142602</lastUpdated>
+    <lastUpdated>20190814113540</lastUpdated>
   </versioning>
 </metadata>
