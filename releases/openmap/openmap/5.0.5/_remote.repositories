@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 13 16:02:32 CET 2020
+openmap-5.0.5.pom>=
+openmap-5.0.5.jar>=
+openmap-5.0.5-sources.jar>=
+openmap-5.0.5-test-sources.jar>=
