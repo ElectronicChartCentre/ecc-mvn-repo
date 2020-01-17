@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 17 16:35:50 CET 2020
+jskdata-1.0.16.pom>=
+jskdata-1.0.16.jar>=
+jskdata-1.0.16-sources.jar>=
