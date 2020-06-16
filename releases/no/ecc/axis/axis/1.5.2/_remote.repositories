@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 24 01:31:46 CEST 2020
+axis-1.5.2.pom>=
+axis-1.5.2.jar>=
+axis-1.5.2-sources.jar>=
