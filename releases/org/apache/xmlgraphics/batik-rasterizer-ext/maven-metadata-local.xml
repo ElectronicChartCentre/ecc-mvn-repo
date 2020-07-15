@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.xmlgraphics</groupId>
+  <artifactId>batik-rasterizer-ext</artifactId>
+  <versioning>
+    <release>1.13.1-modulefix</release>
+    <versions>
+      <version>1.13.1-modulefix</version>
+    </versions>
+    <lastUpdated>20200715123701</lastUpdated>
+  </versioning>
+</metadata>
