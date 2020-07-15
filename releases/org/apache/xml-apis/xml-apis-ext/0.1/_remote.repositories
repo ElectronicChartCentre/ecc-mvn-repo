@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 15 14:14:01 CEST 2020
+xml-apis-ext-0.1.pom>=
+xml-apis-ext-0.1.jar>=
+xml-apis-ext-0.1-sources.jar>=
