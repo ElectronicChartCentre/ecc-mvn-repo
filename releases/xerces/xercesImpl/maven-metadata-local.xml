@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>xerces</groupId>
+  <artifactId>xercesImpl</artifactId>
+  <versioning>
+    <release>2.12.0-modulefix</release>
+    <versions>
+      <version>2.12.0-modulefix</version>
+    </versions>
+    <lastUpdated>20200716082406</lastUpdated>
+  </versioning>
+</metadata>

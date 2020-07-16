@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 16 10:24:06 CEST 2020
+xercesImpl-2.12.0-modulefix-test-sources.jar>=
+xercesImpl-2.12.0-modulefix.jar>=
+xercesImpl-2.12.0-modulefix.pom>=
+xercesImpl-2.12.0-modulefix-sources.jar>=
