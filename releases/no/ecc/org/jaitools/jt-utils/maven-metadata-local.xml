@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>no.ecc.org.jaitools</groupId>
+  <artifactId>jt-utils</artifactId>
+  <versioning>
+    <release>1.7-diskimage</release>
+    <versions>
+      <version>1.7-diskimage</version>
+    </versions>
+    <lastUpdated>20201120144547</lastUpdated>
+  </versioning>
+</metadata>
