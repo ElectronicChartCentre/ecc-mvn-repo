@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 20 15:53:25 CET 2020
+http\://download.java.net/maven/2/.error=
+http\://download.java.net/maven/2/.lastUpdated=1605884004303
+https\://maven.ecc.no/releases/.lastUpdated=1605884005359
+https\://repo.osgeo.org/repository/release/.lastUpdated=1605884005106
+https\://repo.osgeo.org/repository/release/.error=
