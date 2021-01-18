@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 18 14:56:10 CET 2021
+java-vector-tile-1.2.10-test-sources.jar>=
+java-vector-tile-1.2.10-sources.jar>=
+java-vector-tile-1.2.10.jar>=
+java-vector-tile-1.2.10.pom>=
