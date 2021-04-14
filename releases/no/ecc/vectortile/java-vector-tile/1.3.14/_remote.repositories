@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 14 15:47:39 CEST 2021
+java-vector-tile-1.3.14.pom>=
+java-vector-tile-1.3.14-sources.jar>=
+java-vector-tile-1.3.14-javadoc.jar>=
+java-vector-tile-1.3.14.jar>=
+java-vector-tile-1.3.14-test-sources.jar>=
