@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 14 13:51:26 CEST 2021
+https\://maven.geo-solutions.it/.lastUpdated=1618401086574
+https\://maven.ecc.no/releases/.lastUpdated=1618401085884
+https\://artifacts.unidata.ucar.edu/content/repositories/unidata-releases/.lastUpdated=1618401086726
+http\://dl.bintray.com/filosganga/maven/.lastUpdated=1618401086767
+https\://artifacts.unidata.ucar.edu/content/repositories/unidata-releases/.error=
+https\://repo.osgeo.org/repository/release/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1618401085703
+http\://dl.bintray.com/filosganga/maven/.error=
+https\://maven.ecc.no/releases/.error=
+https\://maven.geo-solutions.it/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.osgeo.org/repository/release/.lastUpdated=1618401086518
