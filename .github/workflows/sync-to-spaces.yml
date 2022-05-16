@@ -1,9 +1,10 @@
-name: Deploy Maven Repo
+name: Sync to DigitalOcean Spaces
 
 on:
   push:
     branches:
       - master
+
 jobs:
   sync-to-spaces:
     - uses: actions/checkout@master
@@ -14,4 +15,4 @@ jobs:
         AWS_S3_BUCKET: 'ecc-mvn-repo'
         AWS_ACCESS_KEY_ID: ${{ secrets.SPACES_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SPACES_SECRET_ACCESS_KEY }}
-        AWS_S3_ENDPOINT: ''
+        AWS_S3_ENDPOINT: 'https://ams3.digitaloceanspaces.com'
