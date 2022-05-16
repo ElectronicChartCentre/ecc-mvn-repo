@@ -17,4 +17,4 @@ jobs:
           AWS_S3_BUCKET: 'ecc-mvn-repo'
           AWS_ACCESS_KEY_ID: ${{ secrets.SPACES_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SPACES_SECRET_ACCESS_KEY }}
-          AWS_S3_ENDPOINT: 'ams3.digitaloceanspaces.com'
+          AWS_S3_ENDPOINT: 'https://ams3.digitaloceanspaces.com'
