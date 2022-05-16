@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: jakejarvis/s3-sync-action@master
         with:
-          args: --acl public-read --follow-symlinks --delete --exclude '.git/*'
+          args: --acl public-read --follow-symlinks --delete --exclude '.git/*' --size-only
         env:
           AWS_S3_BUCKET: 'ecc-mvn'
           AWS_ACCESS_KEY_ID: ${{ secrets.SPACES_ACCESS_KEY_ID }}
