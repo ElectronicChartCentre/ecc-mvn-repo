@@ -1,0 +1,17 @@
+name: Deploy Maven Repo
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  sync-to-spaces:
+    - uses: actions/checkout@master
+    - uses: jakejarvis/s3-sync-action@master
+      with: 
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'ecc-mvn-repo'
+        AWS_ACCESS_KEY_ID: ${{ secrets.SPACES_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SPACES_SECRET_ACCESS_KEY }}
+        AWS_S3_ENDPOINT: ''
