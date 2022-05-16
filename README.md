@@ -10,3 +10,5 @@ mvn install:install-file  -Dfile=[the jar file] -DgroupId=[the group id] -Dartif
 The JAR file is installed to the local .m2 repository.
 
 Copy the folder into the releases folder and commit to github.
+
+The directory are automatically synced to https://ecc-mvn.ams3.digitaloceanspaces.com/ using Github Action
