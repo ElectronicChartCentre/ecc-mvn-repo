@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 07 14:17:18 CEST 2022
+@default-ECC\ Repository-https\://ecc-mvn.ams3.digitaloceanspaces.com/releases/.lastUpdated=1665145037385
+https\://ecc-mvn.ams3.digitaloceanspaces.com/releases/.error=Could not transfer artifact no.ecc\:ecc-jasper-fonts\:jar\:sources\:1.0 from/to ECC Repository (https\://ecc-mvn.ams3.digitaloceanspaces.com/releases)\: Access denied to https\://ecc-mvn.ams3.digitaloceanspaces.com/releases/no/ecc/ecc-jasper-fonts/1.0/ecc-jasper-fonts-1.0-sources.jar. Error code 403, 
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1665145037236
+https\://repo.osgeo.org/repository/release/.error=
+https\://repo.osgeo.org/repository/release/.lastUpdated=1665145038721
