@@ -7,6 +7,6 @@ Use the following repository definition in the pom.xml to use releases in this r
 ```xml
         <repository>
             <id>ECC</id>
-            <url>https://ecc-mvn.ams3.digitaloceanspaces.com/releases</url>
+            <url>https://maven.ecc.no/releases</url>
         </repository>
 ```
