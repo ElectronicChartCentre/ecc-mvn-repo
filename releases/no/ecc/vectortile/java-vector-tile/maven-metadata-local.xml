@@ -3,7 +3,7 @@
   <groupId>no.ecc.vectortile</groupId>
   <artifactId>java-vector-tile</artifactId>
   <versioning>
-    <release>1.3.22</release>
+    <release>1.3.23</release>
     <versions>
       <version>1.0.9</version>
       <version>1.1.0</version>
@@ -44,7 +44,8 @@
       <version>1.3.20</version>
       <version>1.3.21</version>
       <version>1.3.22</version>
+      <version>1.3.23</version>
     </versions>
-    <lastUpdated>20230102084000</lastUpdated>
+    <lastUpdated>20230508104901</lastUpdated>
   </versioning>
 </metadata>
