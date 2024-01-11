@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 05 09:31:11 CEST 2023
+httpservices-4.6.15-sources.jar>osgeo=
+httpservices-4.6.15.jar>osgeo=
+httpservices-4.6.15.pom>osgeo=
