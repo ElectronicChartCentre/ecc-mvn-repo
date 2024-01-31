@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 31 14:51:40 CET 2024
+openmap-mini-5.0.14.jar>=
+openmap-mini-5.0.14.pom>=
+openmap-mini-5.0.14-sources.jar>=
+openmap-mini-5.0.14-test-sources.jar>=
