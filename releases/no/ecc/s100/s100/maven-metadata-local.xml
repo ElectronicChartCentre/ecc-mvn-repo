@@ -3,10 +3,10 @@
   <groupId>no.ecc.s100</groupId>
   <artifactId>s100</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.3</release>
     <versions>
-      <version>0.0.1</version>
+      <version>0.0.3</version>
     </versions>
-    <lastUpdated>20191205113529</lastUpdated>
+    <lastUpdated>20250812125118</lastUpdated>
   </versioning>
 </metadata>
