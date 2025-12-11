@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 11:42:07 CET 2025
+rembulan-compiler-0.3.7-javadoc.jar>=
+rembulan-compiler-0.3.7-sources.jar>=
+rembulan-compiler-0.3.7.jar>=
+rembulan-compiler-0.3.7.pom>=
